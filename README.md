@@ -1,3 +1,26 @@
+
+DSPEED OS
+=========
+Direkt SPEED OS is a Software Stack based on the Linux 3.15 Kernel 
+so it Includes.
+* New ZRAM Block Compression
+* Deadline Sheduler RealTime 
+
+Base:
+Linux 3.15
+Docker Application RUN TIME
+Application Management Tools for Server and Working Desktops
+Fine Grined ACL System
+
+Ultra SMALL Server Operating System uses less then 24 MB Ram after boot.
+Disk Image is ~150MB
+
+Templates for Starting Node.JS Applications abd Ruby, Python soon more.
+
+
+
+
+
 matrix-platform
 ================
 
